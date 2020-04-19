@@ -1,4 +1,4 @@
-package nikhil;
+package nikhil; //package name in eclipse IDE
 
 import java.util.Scanner;
 
